@@ -14,8 +14,8 @@ role: Big Data & IT Manager, Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: TutorABC ‐ iTutorGroup
+  url: http://www.itutorgroup.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
