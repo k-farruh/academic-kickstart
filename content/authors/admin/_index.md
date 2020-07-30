@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Farruh Kushnazarov
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Big Data & IT Manager, Data Scientist
 
 # Organizations/Affiliations
 organizations:
