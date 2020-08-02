@@ -19,33 +19,66 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Dell EMC Academic Alliance"
+  organization_url = "https://www.delltechnologies.com/"
+  title = "Data Science - effective use of data"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = "files/accomplishments/AI/EMC_data_science.jpg"
+  date_start = ""
+  date_end = "2012-11-12"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Dell EMC Academic Alliance"
+  organization_url = "https://www.delltechnologies.com/"
+  title = "ISM - administration of information and data storage"
+  url = ""
+  certificate_url = "files/accomplishments/AI/EMC_ims.jpg"
+  date_start = ""
+  date_end = "2012-11-12"
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "CognitiveClass.ai - Big Data University"
+  organization_url = "https://cognitiveclass.ai/"
+  title = "Big Data 101"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "files/accomplishments/AI/big_data_university.pdf"
+  date_start = ""
+  date_end = "2017-02-09"
   description = ""
+  
+[[item]]
+  organization = "IBM"
+  organization_url = ""
+  title = "IBM z Series technology fundamentals"
+  url = ""
+  certificate_url = "files/accomplishments/AI/IBM.jpg"
+  date_start = ""
+  date_end = "2007-12-21"
+  description = ""
+  
+[[item]]
+  organization = "Intuit National Open University"
+  organization_url = "https://www.intuit.ru"
+  title = "Data Mining"
+  url = ""
+  certificate_url = "https://www.intuit.ru/verifydiplomas/100998270"
+  date_start = ""
+  date_end = "2016-10-13"
+  description = ""
+  
+[[item]]
+  organization = "Intuit National Open University"
+  organization_url = "https://www.intuit.ru"
+  title = "C Programming Basics"
+  url = ""
+  certificate_url = "https://www.intuit.ru/verifydiplomas/00163698"
+  date_start = ""
+  date_end = "2011-12-25"
+  description = ""
+  
+
+
 
 +++
