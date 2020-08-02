@@ -41,6 +41,16 @@ subtitle = ""
     name = "Other"
     tag = "Other"
 
+[[item]]
+    organization = "Dell EMC Academic Alliance"
+    organization_url = "https://www.delltechnologies.com/"
+    title = "Data Science - effective use of data"
+    url = ""
+    certificate_url = "files/accomplishments/AI/EMC_data_science.jpg"
+    date_start = "2012-11-12"
+    date_end = ""
+    description = ""
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
