@@ -19,154 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Dell EMC Academic Alliance"
-  organization_url = "https://www.delltechnologies.com/"
-  title = "Data Science - effective use of data"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = "files/accomplishments/AI/EMC_data_science.jpg"
-  date_start = ""
-  date_end = "2012-11-12"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
   description = ""
 
 [[item]]
-  organization = "Dell EMC Academic Alliance"
-  organization_url = "https://www.delltechnologies.com/"
-  title = "ISM - administration of information and data storage"
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Blockchain Fundamentals"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
-  certificate_url = "files/accomplishments/AI/EMC_ims.jpg"
-  date_start = ""
-  date_end = "2012-11-12"
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
   description = ""
-  
-[[item]]
-  organization = "CognitiveClass.ai - Big Data University"
-  organization_url = "https://cognitiveclass.ai/"
-  title = "Big Data 101"
-  url = ""
-  certificate_url = "files/accomplishments/AI/big_data_university.pdf"
-  date_start = ""
-  date_end = "2017-02-09"
-  description = ""
-  
-[[item]]
-  organization = "IBM"
-  organization_url = ""
-  title = "IBM z Series technology fundamentals"
-  url = ""
-  certificate_url = "files/accomplishments/AI/IBM.jpg"
-  date_start = ""
-  date_end = "2007-12-21"
-  description = ""
-  
-[[item]]
-  organization = "Intuit National Open University"
-  organization_url = "https://www.intuit.ru"
-  title = "Data Mining"
-  url = ""
-  certificate_url = "https://www.intuit.ru/verifydiplomas/100998270"
-  date_start = ""
-  date_end = "2016-10-13"
-  description = ""
-  
-[[item]]
-  organization = "Intuit National Open University"
-  organization_url = "https://www.intuit.ru"
-  title = "C Programming Basics"
-  url = ""
-  certificate_url = "https://www.intuit.ru/verifydiplomas/00163698"
-  date_start = ""
-  date_end = "2011-12-25"
-  description = ""
-  
-[[item]]
-  organization = "Intuit National Open University"
-  organization_url = "https://www.intuit.ru"
-  title = "Introduction to HTML"
-  url = ""
-  certificate_url = "https://www.intuit.ru/verifydiplomas/100033106"
-  date_start = ""
-  date_end = "2012-08-14"
-  description = ""
-   
-[[item]]
-  organization = "Intuit National Open University"
-  organization_url = "https://www.intuit.ru"
-  title = "Working with HTML"
-  url = ""
-  certificate_url = "https://www.intuit.ru/verifydiplomas/100033109"
-  date_start = ""
-  date_end = "2012-08-14"
-  description = ""
-  
-[[item]]
-  organization = "Intuit National Open University"
-  organization_url = "https://www.intuit.ru"
-  title = "The C Programming Language"
-  url = ""
-  certificate_url = "https://www.intuit.ru/verifydiplomas/00168983"
-  date_start = ""
-  date_end = "2012-01-19"
-  description = ""  
-  
-[[item]]
-  organization = "ABB"
-  organization_url = "https://new.abb.com"
-  title = "Specialist in the adjustment and programming of automated building management systems based on ABB equipment"
-  url = ""
-  certificate_url = "files/accomplishments/smart_building_iot/ABB-KNX_1_3"
-  date_start = ""
-  date_end = "2012-11-22"
-  description = "Competence level 3 on building a lighting control system based on the DALI and ABB-i-bus KNX technology." 
-
-[[item]]
-  organization = "ABB"
-  organization_url = "https://new.abb.com"
-  title = "Specialist in the design of automated control systems for engineering complexes of buildings based on ABB equipment"
-  url = ""
-  certificate_url = "files/accomplishments/smart_building_iot/ABB-KNX_1_2"
-  date_start = ""
-  date_end = "2012-11-07"
-  description = "Competence level 2 fundamentals of design of automated control systems for engineering complexes of buildings on the basis of ABB i-bus KNX technology." 
-  
-[[item]]
-  organization = "ABB"
-  organization_url = "https://new.abb.com"
-  title = "ABB Low Voltage Application Consultant"
-  url = ""
-  certificate_url = "files/accomplishments/smart_building_iot/ABB-KNX_2_2"
-  date_start = ""
-  date_end = "2013-04-25"
-  description = "Competence level 2 Home phone systems from ABB." 
-
-[[item]]
-  organization = "ABB"
-  organization_url = "https://new.abb.com"
-  title = "Specialist in setting up and programming building automation systems based on ABB equipment"
-  url = ""
-  certificate_url = "files/accomplishments/smart_building_iot/ABB-KNX_2_3"
-  date_start = ""
-  date_end = "2013-09-11"
-  description = "Competence level 3 building a microclimate control system based on ABB i-bus KNX technology." 
-  
-[[item]]
-  organization = "AMX University"
-  organization_url = "https://www.amx.com"
-  title = "Indroduction to AMX. Step I&II"
-  url = ""
-  certificate_url = "files/accomplishments/smart_building_iot/amx.jpg"
-  date_start = ""
-  date_end = "2013-12-01"
-  description = "" 
-  
-[[item]]
-  organization = "Crestron"
-  organization_url = "https://www.crestron.com/"
-  title = "Configuration & Essential Training"
-  url = ""
-  certificate_url = "files/accomplishments/smart_building_iot/CRESTRON.jpg"
-  date_start = ""
-  date_end = "2013-02-20"
-  description = "" 
-
 
 +++
