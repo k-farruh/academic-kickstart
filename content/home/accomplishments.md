@@ -48,37 +48,5 @@ date_format = "Jan 2006"
   date_end = "2017-02-09"
   description = ""
   
-[[item]]
-  organization = "IBM"
-  organization_url = ""
-  title = "IBM z Series technology fundamentals"
-  url = ""
-  certificate_url = "files/accomplishments/AI/IBM.jpg"
-  date_start = ""
-  date_end = "2007-12-21"
-  description = ""
-  
-[[item]]
-  organization = "Intuit National Open University"
-  organization_url = "https://www.intuit.ru"
-  title = "Data Mining"
-  url = ""
-  certificate_url = "https://www.intuit.ru/verifydiplomas/100998270"
-  date_start = ""
-  date_end = "2016-10-13"
-  description = ""
-  
-[[item]]
-  organization = "Intuit National Open University"
-  organization_url = "https://www.intuit.ru"
-  title = "C Programming Basics"
-  url = ""
-  certificate_url = "https://www.intuit.ru/verifydiplomas/00163698"
-  date_start = ""
-  date_end = "2011-12-25"
-  description = ""
-  
-
-
 
 +++
