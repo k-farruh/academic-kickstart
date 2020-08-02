@@ -28,25 +28,5 @@ date_format = "Jan 2006"
   date_end = "2012-11-12"
   description = ""
 
-[[item]]
-  organization = "Dell EMC Academic Alliance"
-  organization_url = "https://www.delltechnologies.com/"
-  title = "ISM - administration of information and data storage"
-  url = ""
-  certificate_url = "files/accomplishments/AI/EMC_ims.jpg"
-  date_start = ""
-  date_end = "2012-11-12"
-  description = ""
-  
-[[item]]
-  organization = "CognitiveClass.ai - Big Data University"
-  organization_url = "https://cognitiveclass.ai/"
-  title = "Big Data 101"
-  url = ""
-  certificate_url = "files/accomplishments/AI/big_data_university.pdf"
-  date_start = ""
-  date_end = "2017-02-09"
-  description = ""
-  
 
 +++
