@@ -116,7 +116,7 @@ date_format = "Jan 2006"
   certificate_url = "files/accomplishments/smart_building_iot/ABB-KNX_1_3"
   date_start = ""
   date_end = "2012-11-22"
-  description = "Competence level 3 on building a lighting control system based on the DALI and ABB-i-bus KNX technology" 
+  description = "Competence level 3 on building a lighting control system based on the DALI and ABB-i-bus KNX technology." 
 
 [[item]]
   organization = "ABB"
@@ -126,7 +126,7 @@ date_format = "Jan 2006"
   certificate_url = "files/accomplishments/smart_building_iot/ABB-KNX_1_2"
   date_start = ""
   date_end = "2012-11-07"
-  description = "Competence level 2 fundamentals of design of automated control systems for engineering complexes of buildings on the basis of ABB i-bus KNX technology" 
+  description = "Competence level 2 fundamentals of design of automated control systems for engineering complexes of buildings on the basis of ABB i-bus KNX technology." 
   
 [[item]]
   organization = "ABB"
@@ -136,7 +136,7 @@ date_format = "Jan 2006"
   certificate_url = "files/accomplishments/smart_building_iot/ABB-KNX_2_2"
   date_start = ""
   date_end = "2013-04-25"
-  description = "Competence level 2 Home phone systems from ABB" 
+  description = "Competence level 2 Home phone systems from ABB." 
 
 [[item]]
   organization = "ABB"
@@ -146,7 +146,7 @@ date_format = "Jan 2006"
   certificate_url = "files/accomplishments/smart_building_iot/ABB-KNX_2_3"
   date_start = ""
   date_end = "2013-09-11"
-  description = "Competence level 3 building a microclimate control system based on ABB i-bus KNX technology" 
+  description = "Competence level 3 building a microclimate control system based on ABB i-bus KNX technology." 
   
 [[item]]
   organization = "AMX University"
