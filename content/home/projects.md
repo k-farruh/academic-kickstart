@@ -21,25 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-
-  [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "Machine Learning"
-  
-  [[content.filter_button]]
-    name = "Digital Communication Network"
-    tag = "Digital Communication Network"
-  
-  [[content.filter_button]]
-    name = "Smart City/Building"
-    tag = "Smart Building"
-  
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Other"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
+  # 
+  # [[content.filter_button]]
+  #   name = "Machine Learning"
+  #   tag = "Machine Learning"
+  # 
+  # [[content.filter_button]]
+  #   name = "Digital Communication Network"
+  #   tag = "Digital Communication Network"
+  # 
+  # [[content.filter_button]]
+  #   name = "Smart City/Building"
+  #   tag = "Smart Building"
+  # 
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -65,15 +65,15 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DeepSkyBlue"
-  gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true  
   
 [advanced]
  # Custom CSS. 
