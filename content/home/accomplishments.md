@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Data Science - effective use of data"
   url = ""
   certificate_url = "files/accomplishments/AI/EMC_data_science.jpg"
-  date_start = ""
-  date_end = "2012-11-12"
+  date_start = "2012-11-12"
+  date_end = ""
   description = ""
 
 
