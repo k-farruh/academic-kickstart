@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: https://natbprice.github.io/radsets/
+date: "2020-08-03T00:00:00Z"
+external_link: https://k-farruh.github.io/speech-accent-detection/
 image:
-  caption: Radsets logo
+  caption: Speech Accent Detection logo
   focal_point: Smart
-summary: An R package for interactive, network-based visualizations of overlapping sets.
+summary: Everyone who speaks a language, speaks it with an accent. This project define accent for english language speakers.
 tags:
-- Visualization
-title: radsets
+- Machine Learning
+title: Speech Accent Detection
 ---

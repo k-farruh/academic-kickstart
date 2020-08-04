@@ -31,7 +31,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Communication Network"
-    tag = "Digital Communication Network"
+    tag = "Communication Network"
 
   [[content.filter_button]]
     name = "Smart City"
