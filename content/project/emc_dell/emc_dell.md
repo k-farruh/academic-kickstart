@@ -10,4 +10,4 @@ tags:
 title: Data-Center Network Optimizing
 ---
 
-![](EMC_1.jpg)
+![](content/porject/emc_dell/EMC_1.jpg)
