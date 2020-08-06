@@ -1,6 +1,6 @@
 ---
 date: "2020-08-03T00:00:00Z"
-external_link: ""
+external_link: "files/projects/emc_dell/intellect_trans.png"
 image:
   caption: intellekt_trans logo
   focal_point: Smart

@@ -1,6 +1,6 @@
 ---
 date: "2020-08-03T00:00:00Z"
-external_link: ""
+external_link: "https://l-cube.ru/"
 image:
   caption: l_cube logo
   focal_point: Smart
