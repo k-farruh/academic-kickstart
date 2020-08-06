@@ -7,9 +7,13 @@ tags:
 title: Data-Center Network Optimizing
 ---
 
+1. First item
+2. Another item
+
 [[main]]
   name = "Indroduction to AMX. Step I&II"
   url = "files/accomplishments/smart_building_iot/amx.jpg"
   description = ""
 ![Project information](content/porject/emc_dell/EMC_1.jpg)
 
+{{< figure library="true" src="EMC_1.jpg" title="A caption" >}}
