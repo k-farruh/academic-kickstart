@@ -11,3 +11,7 @@ title: Data-Center Network Optimizing
 ---
 
 ![](content/porject/emc_dell/EMC_1.jpg)
+
+<img src="content/porject/emc_dell/EMC_1.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
