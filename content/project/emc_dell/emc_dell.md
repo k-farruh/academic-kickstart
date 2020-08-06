@@ -10,7 +10,16 @@ tags:
 title: Data-Center Network Optimizing
 ---
 
-![](content/porject/emc_dell/EMC_1.jpg)
+[[item]]
+  organization = "AMX University"
+  organization_url = "https://www.amx.com"
+  title = "Indroduction to AMX. Step I&II"
+  url = ""
+  certificate_url = "files/accomplishments/smart_building_iot/amx.jpg"
+  date_start = "2013-12-01"
+  date_end = ""
+  description = ""
+![Project information](content/porject/emc_dell/EMC_1.jpg)
 
 <img src="content/porject/emc_dell/EMC_1.jpg"
      alt="Markdown Monster icon"
