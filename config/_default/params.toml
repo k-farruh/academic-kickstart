@@ -105,15 +105,15 @@ coordinates = {latitude = "31.167239", longitude = "121.480329"}
 office_hours = ["Tuesday 16:00 to 17:00", "Thursday 15:00 to 16:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/k-farruh"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "weixin", icon_pack = "fab", name = "DM Me", link = "https://www.wechat.com"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  # {icon = "weixin", icon_pack = "fab", name = "DM Me", link = "https://www.wechat.com"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
 ############################
