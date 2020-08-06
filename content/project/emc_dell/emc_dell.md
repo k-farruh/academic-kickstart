@@ -9,3 +9,5 @@ tags:
 - Communication Network
 title: Data-Center Network Optimizing
 ---
+
+![] (EMC_1.jpg)

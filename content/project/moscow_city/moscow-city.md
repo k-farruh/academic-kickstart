@@ -9,5 +9,3 @@ summary: Moscow City Project, which is made by 5 different office building group
 tags:
 tags: [Smart City]
 ---
-
-![] (moscow_city.jpeg)
