@@ -36,11 +36,11 @@
   weight = 70
 
 [[main]]
-  name = "Projects"
-  url = "https://github.com/k-farruh/projects_ppt"
+  name = "PPT Projects"
+  url = "https://htmlpreview.github.io/?https://github.com/k-farruh/projects_ppt/blob/master/index.html#/"
   weight = 80
 
 [[main]]
-  name = "Research"
-  url = "static/files/projects_Researcher/projects_researcher.html"
+  name = "PPT Research"
+  url = "https://htmlpreview.github.io/?https://github.com/k-farruh/research_ppt/blob/master/index.html#/"
   weight = 90
