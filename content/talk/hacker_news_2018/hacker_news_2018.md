@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence/Machine Learning: New Level of Business Intelligence
+title: Artificial Intelligence&Machine Learning: New Level of Business Intelligence
 date: "2018-03-15T15:00:00Z"
 author: Farruh Kushnazarov
 external_link: https://www.eventbrite.com/e/march-hacker-news-meetup-tickets-43588110211
