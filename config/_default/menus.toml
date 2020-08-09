@@ -32,15 +32,15 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "https://github.com/k-farruh/self_info/blob/master/CV_DS/CV_DS.pdf"
+  url = "https://github.com/k-farruh/self_info/raw/master/CV_DS/CV_DS.pdf"
   weight = 70
 
 [[main]]
   name = "Projects"
-  url = "https://github.com/k-farruh/self_info/blob/master/projects_DS/projects_DS.html"
+  url = "static/files/projects_DS/projects_DS.html"
   weight = 80
 
 [[main]]
   name = "Research"
-  url = "https://github.com/k-farruh/self_info/blob/master/projects_Researcher/projects_researcher.html"
+  url = "static/files/projects_Researcher/projects_researcher.html"
   weight = 90
