@@ -32,7 +32,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "https://github.com/k-farruh/rmd_cv/raw/master/CV_DS/CV_DS.pdf"
+  url = "https://raw.githubusercontent.com/k-farruh/rmd_cv/master/CV_DS/CV_DS_Kushnazarov.pdf"
   weight = 70
 
 [[main]]
