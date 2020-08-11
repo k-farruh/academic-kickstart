@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Big Data & IT Manager, Data Scientist"
+  title = "Big Data & Data Scientist Manager, "
   company = "TutorABC - iTutorGroup"
   company_url = "http://www.itutorgroup.com/"
   location = "Shanghai, China"
@@ -72,13 +72,12 @@ date_format = "Jan 2006"
   company = "Tashkent Railway Engineering Institute"
   company_url = "http://www.tashiit.uz/"
   location = "Tashkent, Uzbekistan"
-  date_start = "2012-10-01"
-  date_end = "2015-05-30"
+  date_start = "2016-03-25"
+  date_end = "2016-04-30"
   description = """Institute is the center of education and science, it has professional and pedagogical traditions. The Institute is constantly updating the technologies of education and scientific researches.
 
-  
   Responsibilities include:
-  
+
   * Dean of the school of computer science, the introduction of advanced computer curriculum improvement theory, advocating paperless examination and approval.
   """
 

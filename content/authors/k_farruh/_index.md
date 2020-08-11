@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://github.com/k-farruh/self_info/blob/master/CV_DS/CV_DS.pdf
+  link: https://github.com/k-farruh/rmd_cv/blob/master/CV_DS/CV_DS.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "k.farruh@bk.ru"
