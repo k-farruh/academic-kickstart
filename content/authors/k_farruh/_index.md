@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Big Data & IT Manager, Data Scientist
+role: Big Data & AI Manager, Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Dr. Kushnazarov Farruh has always adhered to the spirit of combining theory with practice. He has been doing research and participating in different practical work. In Russia, Dr. Kushnazarov Farruh joined one of the biggest scale smart building projects in Russia history --- Smart City Moscow. After coming to China, he participated in the research and development of the core computer control program for a domestic brand of Autonomous Driving Vehicles. 
+Dr. Kushnazarov Farruh has always adhered to the spirit of combining theory with practice. He has been doing research and participating in different practical work in data analysis and AI linked area. In Russia, Dr. Kushnazarov Farruh joined one of the biggest scale smart building projects in Russia history --- Smart City Moscow project, which is a symbol for New Russia. After coming in China, he participated in the R&D of the unmanned vehicle computer control system for a domestic brand of Autonomous Driving Vehicles. 
 
-Since September 2016, he is been with the Big Data of iTutorGroup, Shanghai, China, where he is a Data Scientist. His current research interests include efficiency of a communication network with deep learning, auto-encoding and optimizing algorithms with over 20 technical publications. 
+He is working as big data & AI expert in iTutorGroup-Pingan since 2016, where he is a Data Scientist. His current research interests include efficiency of a communication network with deep learning, auto-encoding and optimizing algorithms with over 20 technical publications. 
 
