@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Big Data & Data Scientist Manager, "
-  company = "TutorABC - iTutorGroup"
+  company = "iTutorGroup-Ping An"
   company_url = "http://www.itutorgroup.com/"
   location = "Shanghai, China"
   date_start = "2016-09-26"
