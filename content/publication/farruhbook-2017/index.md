@@ -1,7 +1,7 @@
 ---
 title: "Organization of work with cloud services"
 date: 2017-10-01
-publishDate: 2020-08-06T14:37:17.220791Z
+publishDate: 2020-08-12T14:18:12.028892Z
 authors: ["Valentin Yakovlev", "Farruh Kushnazarov"]
 publication_types: ["5"]
 abstract: ""

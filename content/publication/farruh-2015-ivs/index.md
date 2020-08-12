@@ -1,7 +1,7 @@
 ---
 title: "Controlling data flows in the noisy channels"
 date: 2015-02-01
-publishDate: 2020-08-06T14:37:17.225143Z
+publishDate: 2020-08-12T14:18:12.031717Z
 authors: ["Farruh Kushnazarov"]
 publication_types: ["2"]
 abstract: ""

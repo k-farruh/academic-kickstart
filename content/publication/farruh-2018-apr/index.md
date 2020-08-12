@@ -1,7 +1,7 @@
 ---
 title: "Throughput of communication protocols for distributed systems under transferring a group of frames"
 date: 2018-04-01
-publishDate: 2020-08-06T14:37:17.222793Z
+publishDate: 2020-08-12T14:18:12.029871Z
 authors: ["Farruh Kushnazarov"]
 publication_types: ["2"]
 abstract: ""
