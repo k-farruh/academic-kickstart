@@ -1,3 +1,5 @@
+# shell code for create a publications list
+# academic import --bibtex publications.bib
 ---
 title: Publications
 
