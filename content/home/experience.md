@@ -24,14 +24,14 @@ date_format = "Jan 2006"
   location = "Shanghai, China"
   date_start = "2016-09-26"
   date_end = ""
-  description = """iTutorGroup is the pioneer in online education providing personalized learning experiences to hundreds of thousands of students and business professionals in countless subject matters through its network, and sourcing experts and teachers in thousands of centers, institutions and cities around the world.
+  description = """iTutorGroup is the pioneer in online education providing personalized learning experiences to hundreds of thousands of students and business professionals in many subject matters through its network, and sourcing experts and teachers in thousands of centers, institutions, and cities around the world.
   Responsibilities include:
   
   * Conduct classification analyses of the customer life cycle stage to increase overall turnover.
   * Algorithmic optimizes ongoing ML/DL models and check the performance of implemented models.
   * Established a Machine Learning model refund customers and update the refund model. Decreased refund overall refund rate to 27%.
   * Implemented and retrained Mozilla DeepSpeech library for Automatic Speech Recognition.
-  * Created and tested the Speech Accent Classification system for native and non-native speakers, with recall 99%.
+  * Created and tested the Speech Accent Classification system for native and non-native speakers, with a recall 99%.
   """
 
 [[experience]]
@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Establish and manage the data scientist team. Construct computer vision projects. Bring to production AI/ML/DL projects.
-  * Created data scientist team from scratch, in three months. Trained candidates with a piece of good basic knowledge.
-  * Created a container number recognition system using object detection andcharacter recognition models. Using an internal tool as part of a container tracking system.
+  * Created data scientist team from scratch in three months. Trained candidates with a piece of good basic knowledge.
+  * Created a container number recognition system using object detection and character recognition models. Using an internal tool as part of a container tracking system.
   * Internal face recognition system for customers.
   """
 
@@ -94,7 +94,7 @@ date_format = "Jan 2006"
   
   * I worked alone on more than 20 large and small projects of intelligent systems, one of the most famous and complicated cases is: "smart system development of Moscow city".
   * The project "Moscow city" is composed of five high buildings with styles, different functions of the office buildings and hotels for each building, each floor's requirements were not the same, equivalent to a small smart city system. We successfully finished the project, and for this project, Domus Sapiens got several rewards.
-  * Implemented the created and got patend model to improve the quality of data transfer in wireless network.
+  * Implemented the created and got patent model to improve the quality of data transfer in wireless networks.
   """
   
 [[experience]]
@@ -108,9 +108,8 @@ date_format = "Jan 2006"
   
   Responsibilities include:
   
-  * Developed the mobile phone program of smart card king, which Android and iOS systems could use, making it convenient for business people to organize and store business cards.
-  * Developed the mobile phone program of smart card king, which Android and iOS systems could use, making it convenient for business people to organize and store business cards.
-  * Developed the audio encoding/decoding part of the Blu Ray player, and I also invented the word recognition software used in the library based on the iOS system.
+  * Developed the smart card king software for a mobile phone, which suitable for Android and iOS systems, making it convenient for business people to organize and store business cards.
+  * Developed the audio encoding/decoding part of the Blu Ray player. I also invented the word recognition software used in the library based on the iOS system.
   """
   
 [[experience]]
@@ -126,6 +125,6 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * To conduct laboratory and practical classes for subjects: Programming in C/C++ languages; Network & communication systems on the railway; Information systems on railway transport.
-  * To assist the professor in research work, create application parts, and simulation parts of analytical models.
+  * To assist the professor in research work, create application parts, and simulate analytical models.
   """
 +++

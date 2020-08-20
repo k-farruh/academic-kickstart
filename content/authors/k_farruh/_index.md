@@ -19,7 +19,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data scientist with 4+ years of experience executing data‐driven solutions to increase efficiency, accuracy. I have a deep driven passion for software, database, and data science.
+bio: I am a data scientist with 4+ years of experience executing data‐driven solutions to increase efficiency and algorithms' accuracy. I have a deep driven passion for software, database, and data science.
 
 interests:
 - Deep learning
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mathematical modeling, numerical methods and computer programs
+  - course: Ph.D. in Mathematical modeling, numerical methods and computer programs
     institution: Emperor Alexander I St.Petersburg State Transport University
     year: 2016
   - course: Specialist engineer in Information systems and technologies
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Dr. Kushnazarov Farruh has always adhered to the spirit of combining theory with practice. He has been doing research and participating in different practical work in data analysis and AI linked area. In Russia, Dr. Kushnazarov Farruh joined one of the biggest scale smart building projects in Russia history --- Smart City Moscow project, which is a symbol for New Russia. After coming in China, he participated in the R&D of the unmanned vehicle computer control system for a domestic brand of Autonomous Driving Vehicles. 
+Dr. Kushnazarov Farruh has always adhered to the spirit of combining theory with practice. He has been doing research and participating in different practical work in data analysis and AI linked areas. In Russia, Dr. Kushnazarov Farruh joined one of the most significant scale smart building projects in Russia history --- the Smart City Moscow project, a symbol for New Russia. After coming to China, he worked in R&D. He participated in the unmanned vehicle computer control system for a domestic brand of Autonomous Driving Vehicles. 
 
-He is working as big data & AI expert in iTutorGroup-Ping An since 2016, where he is a Data Scientist. His current research interests include efficiency of a communication network with deep learning, auto-encoding and optimizing algorithms with over 20 technical publications. 
+He is a big data & AI expert in iTutorGroup-Ping An since 2016, where he is a Data Scientist. His current research interests include the efficiency of a communication network with deep learning, auto-encoding, and optimizing algorithms with over 20 technical publications. 
 

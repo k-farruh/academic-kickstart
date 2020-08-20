@@ -4,7 +4,7 @@ external_link: "files/projects/emc_dell/intellect_trans.png"
 image:
   caption: intellekt_trans logo
   focal_point: Smart
-summary: Intelligent rail system transportation summit. As one of the members of the Organizing Committee of the intelligent rail system transportation summit, the organization participated in the summit and attended the meeting.
+summary: Intelligent rail system transportation summit. As one of the Organizing Committee members of the intelligent rail system transportation summit, the organization participated in the summit and attended the meeting..
 tags:
 - Other
 title: IntellektTrans
