@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   company = "Haima automatic Investment Group Co. Ltd, R&D Center"
   company_url = ""
   location = "Shanghai, China"
-  date_start = "2016-05-01"
+  date_start = "2016-04-01"
   date_end = "2016-09-01"
   description = """HAIMA AUTOMOBILE GROUP CO.,LTD is a China-based company principally engaged in the manufacture of automobiles, as well as the provision of related services.
   
