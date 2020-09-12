@@ -32,9 +32,12 @@ education:
   - course: Ph.D. in Mathematical modeling, numerical methods and computer programs
     institution: Emperor Alexander I St.Petersburg State Transport University
     year: 2016
-  - course: Specialist engineer in Information systems and technologies
+  - course: Master of Science in Information systems and technologies
     institution: Emperor Alexander I St.Petersburg State Transport University
     year: 2010
+  - course: Bachelor in Information systems and technologies
+    institution: Emperor Alexander I St.Petersburg State Transport University
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
