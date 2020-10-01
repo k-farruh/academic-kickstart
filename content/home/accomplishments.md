@@ -31,6 +31,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "IBM and Coursera"
   organization_url = "https://coursera.org"
+  title = "Tools for Data Science"
+  url = "https://www.coursera.org/learn/open-source-tools-for-data-science"
+  certificate_url = "https://coursera.org/share/e17f5f15b464ce03e49816e5ed7a8e4d"
+  date_start = "2020-09-30"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "IBM and Coursera"
+  organization_url = "https://coursera.org"
   title = "What is Data Science"
   url = "https://www.coursera.org/learn/what-is-datascience/home/welcome"
   certificate_url = "{https://www.coursera.org/account/accomplishments/certificate/REVKFDAVDB2S"
@@ -77,7 +87,7 @@ date_format = "Jan 2006"
   date_start = "2007-12-21"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "Intuit National Open University"
   organization_url = "https://www.intuit.ru"
