@@ -28,6 +28,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "IBM and Coursera"
+  organization_url = "https://coursera.org"
+  title = "Python for Data Science and AI"
+  url = "https://www.coursera.org/learn/python-for-applied-data-science-ai/"
+  certificate_url = "https://coursera.org/share/aa14fdabcf5378ea4c99a72993525546"
+  date_start = "2020-10-09"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "IBM and Coursera"
