@@ -51,6 +51,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "IBM and Coursera"
   organization_url = "https://coursera.org"
+  title = "Data Visualization with Python"
+  url = "https://www.coursera.org/learn/python-for-data-visualization"
+  certificate_url = "https://coursera.org/share/49b6509c1ef55a814e5e2869dc37bcaf"
+  date_start = "2020-11-16"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "IBM and Coursera"
+  organization_url = "https://coursera.org"
   title = "Data Science Methodology"
   url = "https://www.coursera.org/learn/data-science-methodology"
   certificate_url = "https://coursera.org/share/4341233b19c0236a10152ce5004132d0"
