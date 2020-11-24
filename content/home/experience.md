@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://www.itutorgroup.com/"
   location = "Shanghai, China"
   date_start = "2016-09-26"
-  date_end = ""
+  date_end = "2020-11-09"
   description = """iTutorGroup is the pioneer in online education providing personalized learning experiences to hundreds of thousands of students and business professionals in many subject matters through its network, and sourcing experts and teachers in thousands of centers, institutions, and cities around the world.
   Responsibilities include:
   
