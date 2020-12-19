@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "IBM and Coursera"
   organization_url = "https://coursera.org"
+  title = "Machine Learning with Python"
+  url = "https://www.coursera.org/learn/machine-learning-with-python"
+  certificate_url = "https://coursera.org/share/19422df31a28465322d72001177d99bb"
+  date_start = "2020-12-19"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "IBM and Coursera"
+  organization_url = "https://coursera.org"
   title = "Data Analysis with Python"
   url = "https://www.coursera.org/learn/data-analysis-with-python/home/welcome"
   certificate_url = "https://coursera.org/share/0bf6cab184657077fca8ef68546282d7"
