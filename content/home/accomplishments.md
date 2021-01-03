@@ -21,6 +21,26 @@ date_format = "Jan 2006"
 [[item]]
   organization = "IBM and Coursera"
   organization_url = "https://coursera.org"
+  title = "IBM Data Science"
+  url = "https://www.coursera.org/professional-certificates/ibm-data-science"
+  certificate_url = "https://coursera.org/share/202809cc693c74d7fb964add4908488c"
+  date_start = "2021-01-03"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "IBM and Coursera"
+  organization_url = "https://coursera.org"
+  title = "Applied Data Science Capstone"
+  url = "https://www.coursera.org/learn/applied-data-science-capstone"
+  certificate_url = "https://coursera.org/share/bde51a23297f79f29d143b20d9ac9a7a"
+  date_start = "2021-01-03"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "IBM and Coursera"
+  organization_url = "https://coursera.org"
   title = "Machine Learning with Python"
   url = "https://www.coursera.org/learn/machine-learning-with-python"
   certificate_url = "https://coursera.org/share/19422df31a28465322d72001177d99bb"
